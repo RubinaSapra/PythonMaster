@@ -12,6 +12,4 @@ list3= list3.copy()
 print("Copied list",list3)
 
 indexvalue = list2[2:5]
-print("Index valu"=indexvalue)
-
-
+print("Index value = ",indexvalue)
